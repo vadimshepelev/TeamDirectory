@@ -125,5 +125,4 @@ STATICFILES_DIRS = (
     BASE_DIR + '/www/static',
 )
 
-STATICFILES_STORAGE = 'whitenoise.django.
-    GzipManifestStaticFilesStorage'
+STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
