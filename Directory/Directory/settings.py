@@ -25,7 +25,7 @@ SECRET_KEY = '&@$2c2#0)9(5f-a3v=knz$dt%5%dat5a#k)2h!sq*y+6g1#+2+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [infinite-journey-99909.herokuapp.com]
 
 
 # Application definition
